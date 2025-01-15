@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Barklegne</h1>
 <h3 align="center">A new US resident and seasoned frontend developer from Ethiopia living in Las Vegas.</h3>
 
-<p align="left"> <a href="https://twitter.com/barklegneshetu" target="blank"><img src="https://img.shields.io/twitter/follow/barklegneshetu?logo=twitter&style=for-the-badge" alt="barklegneshetu" /></a> </p>
-
 - 🔭 I’m currently working as a freelancer
 
 - 🌱 I’m currently learning **Google Gemini API**
 
-- Resume [https://www.canva.com/design/DAGEWExtA30/68QetPdWfW74YoH9JV8UTQ/view?utm_content=DAGEWExtA30&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAGEWExtA30/68QetPdWfW74YoH9JV8UTQ/view?utm_content=DAGEWExtA30&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+<h3 align="left">Website:</h3>
+
+<a href="https://barklegne-portfolio.vercel.app/" target="blank">Website</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
