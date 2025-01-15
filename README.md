@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a freelancer
 
-- 🌱 I’m currently learning **Google Gemini API**
+- 🌱 React | Javascript | Next | React Native are my favorite **Tech Stacks**
 
 <a href="https://barklegne-portfolio.vercel.app/" target="blank">Portfolio Website</a>
 
