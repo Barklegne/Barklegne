@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Barklegne</h1>
 <h3 align="center">A new US resident and seasoned frontend developer from Ethiopia living in Las Vegas.</h3>
 
-- 🔭 I’m currently working as a freelancer
+-  I’m currently working as a freelancer
 
-- 🌱 React | Javascript | Next | React Native are my favorite **Tech Stacks**
-
+- React | Javascript | Next | React Native are my favorite **Tech Stacks**
+<br/>
 <a href="https://barklegne-portfolio.vercel.app/" target="blank">Portfolio Website</a>
 
 <h3 align="left">Connect with me:</h3>
