@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Barklegne Gatahun</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia with over 8 years of experience is software development</h3>
+<h1 align="center">Hi 👋, I'm Barklegne</h1>
+<h3 align="center">A new US resident and seasoned frontend developer from Ethiopia living in Las Vegas.</h3>
 
 <p align="left"> <a href="https://twitter.com/barklegneshetu" target="blank"><img src="https://img.shields.io/twitter/follow/barklegneshetu?logo=twitter&style=for-the-badge" alt="barklegneshetu" /></a> </p>
 
-- 🔭 I’m currently working on [ExiExamAI](https://exitexamai.et)
+- 🔭 I’m currently working as a freelancer
 
 - 🌱 I’m currently learning **Google Gemini API**
-
-- 💬 Ask me about **react, react native, javascript**
 
 - Resume [https://www.canva.com/design/DAGEWExtA30/68QetPdWfW74YoH9JV8UTQ/view?utm_content=DAGEWExtA30&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAGEWExtA30/68QetPdWfW74YoH9JV8UTQ/view?utm_content=DAGEWExtA30&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
