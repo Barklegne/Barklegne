@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Barklegne</h1>
-<h3 align="left">A recent US resident and seasoned frontend developer from Ethiopia living in Maryland.</h3>
+<h3 align="left">A recent US resident and seasoned developer from Ethiopia living in Maryland.</h3>
 
 -  I’m currently working as a freelancer
 
