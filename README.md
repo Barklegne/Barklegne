@@ -4,7 +4,6 @@
 -  Currently working at <a href="https://ownersclub.invinciblegg.com/" target="blank" style='text-decoration:none'>Invincible GG</a> <br/> <br/>
 
 - React | Javascript | Next | React Native are my favorite **Tech Stacks**
-<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
