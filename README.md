@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Barklegne</h1>
-<h3 align="left">Ethiopian born, Maryland-based Web and Mobile app developer.</h3>
+<h3 align="left">Ethiopian-Born & Raised Developer Crafting Web & Mobile Apps from Maryland</h3>
 
 -  I’m currently working as a freelancer
 
