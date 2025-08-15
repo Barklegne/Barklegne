@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Barklegne</h1>
 <h3 align="left">Ethiopian-Born & Raised Developer Crafting Web & Mobile Apps from Maryland</h3>
 
--  I’m currently working as a freelancer
+-  Currently working at <a href="https://ownersclub.invinciblegg.com/" target="blank" style='text-decoration:none'>Invincible GG</a> <br/> <br/>
 
 - React | Javascript | Next | React Native are my favorite **Tech Stacks**
 <br/>
