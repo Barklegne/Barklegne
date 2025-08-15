@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Barklegne</h1>
 <h3 align="left">Ethiopian-Born & Raised Developer Crafting Web & Mobile Apps from Maryland</h3>
 
--  Currently working at <a href="https://ownersclub.invinciblegg.com/" target="blank" style='text-decoration:none'>Invincible GG</a> <br/>
+-  Currently working at <a href="https://ownersclub.invinciblegg.com/" target="_blank" rel="noopener noreferrer" style='text-decoration:none'>Invincible GG</a> <br/>
 
 - React | Javascript | Next | React Native are my favorite **Tech Stacks**
 
@@ -11,7 +11,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/barklegne-eshetu-5a548bb1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/barklegne-eshetu-5a548bb1/" height="30" width="40" /></a>
 </p>
 
-<a href="https://barklegne.com/" target="blank" style='text-decoration:none'>barklegne.com</a> <br/> <br/>
+<a href="https://barklegne.com/" target="blank" style='text-decoration:none' target="_blank" rel="noopener noreferrer">barklegne.com</a> <br/> <br/>
 
 
 <h3 align="left">Languages | Frameworks | Libraries | Tools</h3>
